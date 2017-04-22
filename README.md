@@ -1,9 +1,11 @@
 # HelloWorld
 
-This is a test project to figure out how github works.
+This was a test project to figure out how github works.
 
 ... 
 
-<time is passing>
+time is passing
 
 ...
+
+Now i know how to use github!
